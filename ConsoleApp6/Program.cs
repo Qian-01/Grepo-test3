@@ -19,7 +19,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//main - 32425.280
-//main-32425.280
-//qqq
-//aaa
