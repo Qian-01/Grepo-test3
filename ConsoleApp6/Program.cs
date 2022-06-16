@@ -33,7 +33,4 @@ Console.WriteLine("Hello, World!");
 //aaa
 //bbb
 Console.WriteLine("Hello, World!");
-//aaa
-//bbb
-Console.WriteLine("Hello, World!");
 //master
