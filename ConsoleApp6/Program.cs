@@ -32,3 +32,14 @@ Console.WriteLine("Hello, World!");
 //master1
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
+<<<<<<< HEAD
+=======
+Console.WriteLine("Hello, World!");
+//aaaa
+//bbb
+//ccc
+Console.WriteLine("Hello, World!");
+//dddd
+//ccc
+Console.WriteLine("Hello, World!");
+>>>>>>> 918fbe0 (44)
