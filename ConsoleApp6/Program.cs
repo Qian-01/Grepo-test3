@@ -34,5 +34,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //master1
 //test3
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
