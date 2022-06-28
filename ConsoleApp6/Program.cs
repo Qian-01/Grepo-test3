@@ -39,4 +39,3 @@ Console.WriteLine("Hello, World!");
 //22
 //master1
 //1111
-Console.WriteLine("Hello, World!");
