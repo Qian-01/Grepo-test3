@@ -24,7 +24,3 @@ Console.WriteLine("Hello, World!");
 //bb
 //111
 Console.WriteLine("Hello, World!");
-//test1
-//11
-//AAAA
-//Master1
