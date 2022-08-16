@@ -25,9 +25,3 @@ Console.WriteLine("Hello, World!");
 //111
 //22
 Console.WriteLine("Hello, World!");
-//aa11
-//bb
-//22
-//ccccccc
-//dd
-//qqq
