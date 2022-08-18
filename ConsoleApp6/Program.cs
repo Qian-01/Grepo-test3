@@ -26,7 +26,3 @@ Console.WriteLine("Hello, World!");
 //22
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//111
-//aaa
-//bbbs
-//22
