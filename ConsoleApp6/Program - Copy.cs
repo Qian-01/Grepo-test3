@@ -25,15 +25,3 @@ Console.WriteLine("Hello, World!");
 //111
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//aa
-//bb
-//cc
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//test0830
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//aaa
-//11
