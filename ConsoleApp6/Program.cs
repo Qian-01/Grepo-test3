@@ -12,22 +12,3 @@ Console.WriteLine("Hello, World!");//11
 //22
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//test1
-//test1
-//test1
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//test22
-//master1
-Console.WriteLine("Hello, World!");
-//test0906
-Console.WriteLine("Hello, World!");
-//test1
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//000000000000000000
