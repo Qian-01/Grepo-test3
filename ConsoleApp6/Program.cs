@@ -28,4 +28,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //master0919
-Console.WriteLine("Hello, World!");
