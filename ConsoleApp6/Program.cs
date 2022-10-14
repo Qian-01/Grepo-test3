@@ -25,4 +25,8 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //test1
 //test2
+<<<<<<< HEAD
 //aaa
+=======
+//bbb
+>>>>>>> test1
