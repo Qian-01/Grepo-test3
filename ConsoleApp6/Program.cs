@@ -27,10 +27,3 @@ Console.WriteLine("Hello, World!");
 //test2
 //bbb
 //cccc
-<<<<<<< HEAD
-//aaa
-=======
-//bbb
->>>>>>> test1
-//aaa
-Console.WriteLine("Hello, World!");
