@@ -5,12 +5,8 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");//11
-//dd
-//ee
-//111
-//22
 Console.WriteLine("Hello, World!");
+//aa
 Console.WriteLine("Hello, World!");
 //test0908
 //test11
@@ -28,9 +24,13 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //test1
-//aabb
-//aaaa
-//bb
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
+//test2
+//bbb
+//cccc
+<<<<<<< HEAD
+//aaa
+=======
+//bbb
+>>>>>>> test1
+//aaa
 Console.WriteLine("Hello, World!");
