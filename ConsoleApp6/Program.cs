@@ -25,9 +25,5 @@ Console.WriteLine("Hello, World!");
 //test1
 //22
 //2222
-<<<<<<< HEAD
-//111
-=======
 //333
->>>>>>> test1
-//333
+//44
