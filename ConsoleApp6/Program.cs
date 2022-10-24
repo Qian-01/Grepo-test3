@@ -22,18 +22,3 @@ Console.WriteLine("Hello, World!");
 //aaaa
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//test1
-//test2
-//bbb
-//cccc
-<<<<<<< HEAD
-//aaa
-=======
-//bbb
->>>>>>> test1
-//aaa
-Console.WriteLine("Hello, World!");
-//aa
-//bb
-//cc
