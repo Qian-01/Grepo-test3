@@ -23,12 +23,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//test1
-//22
-//test1
-//1111
-//22
-Console.WriteLine("Hello, World!");
-//11
-Console.WriteLine("Hello, World!");
-//11
