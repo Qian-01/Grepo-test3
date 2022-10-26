@@ -33,7 +33,7 @@ Console.WriteLine("Hello, World!");
 //bbb
 >>>>>>> test1
 //aaa
-Console.WriteLine("Hello, World!");
+
 //aa
 //bb
 //cc
