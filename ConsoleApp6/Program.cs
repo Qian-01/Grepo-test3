@@ -20,9 +20,4 @@ Console.WriteLine("Hello, World!");
 //aaaa
 Console.WriteLine("Hello, World!");
 //test1
-//11
-Console.WriteLine("Hello, World!");
 //22
-//33
-Console.WriteLine("Hello, World!");
-//11
