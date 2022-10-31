@@ -24,8 +24,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //test1
 //aa
-<<<<<<< HEAD
-//cc11
-=======
-//cc22
->>>>>>> test1
