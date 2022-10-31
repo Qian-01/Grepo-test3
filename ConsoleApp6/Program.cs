@@ -28,4 +28,3 @@ Console.WriteLine("Hello, World!");
 //11
 //22
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
