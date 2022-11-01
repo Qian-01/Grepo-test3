@@ -19,17 +19,17 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //aaaa
 Console.WriteLine("Hello, World!");
-//test111111
+//test1
 //22
 Console.WriteLine("Hello, World!");
 //test1
 //aa
 Console.WriteLine("Hello, World!");
 //22
+Console.WriteLine("Hello, World!");
+//11
 //33
-<<<<<<< HEAD
+//11
 Console.WriteLine("Hello, World!");
-=======
-//55
->>>>>>> test1
-Console.WriteLine("Hello, World!");
+//111111
+//aaa
