@@ -27,4 +27,8 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //22
 //33
+<<<<<<< HEAD
 Console.WriteLine("Hello, World!");
+=======
+//55
+>>>>>>> test1
