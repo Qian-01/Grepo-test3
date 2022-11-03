@@ -23,6 +23,4 @@ Console.WriteLine("Hello, World!");
 //test12222211111
 =======
 //test12222233
-/111333333333
->>>>>>> test1
 /111
