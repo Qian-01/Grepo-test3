@@ -10,33 +10,4 @@ Console.WriteLine("Hello, World!");
 //22
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//33
-//44
-//55
-//11
-//66
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
 //aa
-//bb
-//11
-//22
-//22s
-//11
-Console.WriteLine("Hello, World!");
-//11111
-Console.WriteLine("Hello, World!");
-//11
-//11
-//22
-//33
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//test111
-//test222
