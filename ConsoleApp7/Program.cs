@@ -19,8 +19,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//aaa
-//bb
-//11111
-//master1111111
-//11223344551111112233
