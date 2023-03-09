@@ -12,7 +12,7 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //11223344
 //1122aa33bb
-//1122bb
+//1122
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
