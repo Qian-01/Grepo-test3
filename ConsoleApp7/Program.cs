@@ -21,18 +21,6 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //11223344
 Console.WriteLine("Hello, World!");
-//aa1122
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//11aa222
 //112233344
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
