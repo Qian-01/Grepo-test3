@@ -28,9 +28,4 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //1122211
 //aa2221111111221112222
-//11222aa11
-<<<<<<< HEAD
-//1112221111
-=======
-//111222aa
->>>>>>> A
+//11222aa1111
