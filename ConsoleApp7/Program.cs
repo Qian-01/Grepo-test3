@@ -8,24 +8,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//1112222aaaa333444bb555bbb
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//aaaaabbb2221133
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//BBBBBBBBBBBBBBBBBBB1111222s
-//aaa11112233555aaaaaaa66
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
