@@ -8,6 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Program1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Program1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="C:\Users\v-qilei\Desktop\1.txt" Link="1.txt" />
     <None Include="C:\Users\v-qilei\Desktop\2.txt" Link="2.txt" />
   </ItemGroup>
