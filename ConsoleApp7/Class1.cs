@@ -12,3 +12,4 @@ namespace ConsoleApp7
     }
 }
 
+#region IDisposable Support
