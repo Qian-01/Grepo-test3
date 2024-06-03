@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
@@ -11,5 +12,3 @@ namespace ConsoleApp7
         int a=1
     }
 }
-
-       #region IDisposable Support
