@@ -18,4 +18,3 @@ namespace ConsoleApp7
     int a = 1
     }
 }
-//aaaaa111112222
