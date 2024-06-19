@@ -30,8 +30,4 @@ Console.WriteLine("Hello, World!");
 //aaaaaa
 Console.WriteLine("Hello, World!");
 //333333111111111111
-<<<<<<< HEAD
-//aaaaa111111bbbbb
-=======
-//aaaaa1111112222
->>>>>>> test0619
+
