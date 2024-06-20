@@ -7,6 +7,11 @@
     using System.Threading.Tasks;
 
     internal class Class2
+    if (somethingTrue)
     {
+        if (somethingFalse)
+				{
+					Method();
+                }
     }
 }
