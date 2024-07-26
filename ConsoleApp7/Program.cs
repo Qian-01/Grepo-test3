@@ -38,4 +38,8 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 //11111
 //2222
+<<<<<<< HEAD
 //aaaaaaaaaaaaaaaa
+=======
+//3333333
+>>>>>>> test0726
