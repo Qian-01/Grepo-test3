@@ -36,23 +36,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-//aaaaa111111bbbbb22222333
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//aaaa11112222bbbb1111
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
